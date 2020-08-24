@@ -2,7 +2,7 @@
 **A demo flask app in docker** 
 
 #### Inspiration
-A diversion from the (docker curriculum)[https://docker-curriculum.com/], I wanted to create a simple flask app to see how flask works.
+A diversion from the [docker curriculum](https://docker-curriculum.com/), I wanted to create a simple flask app to see how flask works.
 
 #### To built and run the dockerized app
 ```
